@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hpnotebook15.mouraghib.TutoringFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="here post about what the student need to be helped with in both his courses material and his discipline"
+        android:gravity="center"
+        android:textSize="40dp"
+        android:textStyle="bold"/>
+
+</FrameLayout>
