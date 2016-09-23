@@ -8,10 +8,10 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Here where we publish general info"
         android:gravity="center"
         android:textSize="40dp"
-        android:textStyle="bold"/>
+        android:textStyle="bold"
+        android:text="ici on peut trouver l'information concernant un ou plusieurs groupes définis en amont" />
 
 
 </FrameLayout>
