@@ -21,9 +21,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".LoginActivity"
+            android:name=".StudentLoginActivity"
             android:label="@string/title_activity_login" />
-        <activity android:name=".publicInfo"></activity>
+        <activity android:name=".publicInfo" />
+        <activity android:name=".Private"></activity>
     </application>
 
 </manifest>
