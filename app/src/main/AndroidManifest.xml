@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.hpnotebook15.mouraghib">
+    package="com.mohaCompany.hpnotebook15.mouraghib">
 
     <!-- To auto-complete the email text field in the login form with the user's emails -->
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
@@ -13,7 +13,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainScreen">
+        <activity android:name="com.mohaCompany.hpnotebook15.mouraghib.MainScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -21,10 +21,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".StudentLoginActivity"
+            android:name="com.mohaCompany.hpnotebook15.mouraghib.StudentLoginActivity"
             android:label="@string/title_activity_login" />
-        <activity android:name=".publicInfo" />
-        <activity android:name=".Private"></activity>
+        <activity android:name="com.mohaCompany.hpnotebook15.mouraghib.publicInfo" />
+        <activity android:name="com.mohaCompany.hpnotebook15.mouraghib.Private"></activity>
     </application>
 
 </manifest>

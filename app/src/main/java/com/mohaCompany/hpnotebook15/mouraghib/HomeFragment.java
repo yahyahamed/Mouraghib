@@ -1,4 +1,4 @@
-package com.example.hpnotebook15.mouraghib;
+package com.mohaCompany.hpnotebook15.mouraghib;
 
 
 import android.os.Bundle;

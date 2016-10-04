@@ -5,7 +5,7 @@ android {
     buildToolsVersion "24.0.0"
 
     defaultConfig {
-        applicationId "com.example.hpnotebook15.mouraghib"
+        applicationId "com.mohaCompany.hpnotebook15.mouraghib"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1

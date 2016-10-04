@@ -1,4 +1,4 @@
-package com.example.hpnotebook15.mouraghib;
+package com.mohaCompany.hpnotebook15.mouraghib;
 
 
 import android.os.Bundle;
@@ -11,10 +11,10 @@ import android.view.ViewGroup;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class GamesFragment extends Fragment {
+public class TutoringFragment extends Fragment {
 
 
-    public GamesFragment() {
+    public TutoringFragment() {
         // Required empty public constructor
     }
 
@@ -23,7 +23,7 @@ public class GamesFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_games, container, false);
+        return inflater.inflate(R.layout.fragment_tutoring, container, false);
     }
 
 }

@@ -9,7 +9,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.hpnotebook15.mouraghib.Private"
+    tools:context="com.mohaCompany.hpnotebook15.mouraghib.Private"
     android:background="@android:color/holo_blue_light">
 
     <Button
