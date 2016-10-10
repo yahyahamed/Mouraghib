@@ -60,7 +60,7 @@ public class publicInfo extends AppCompatActivity {
                         fragmentTransaction = getSupportFragmentManager().beginTransaction();
                         fragmentTransaction.replace(R.id.main_container,new SignInFragment());
                         fragmentTransaction.commit();
-                        getSupportActionBar().setTitle("Logout");
+                        getSupportActionBar().setTitle("SignIn");
                         item.setChecked(true);
                         mDrawerLayout.closeDrawers();
                         break;
